@@ -6,17 +6,19 @@
 백엔드 개발자가 되기 위해 열심히 공부하고 있습니다!
 
 ## 🏅AWARDS
-1. **2023 TOPCIT 정기평가 - 과학기술정보통신부장관상(대상)**    
+1. **SSAFY 11기 우수 수료생 - 삼성전자 대표이사상(우수상)**
+2024.12.19 from 삼성 청년 소프트웨어 아카데미
+2. **2023 TOPCIT 정기평가 - 과학기술정보통신부장관상(대상)**    
 제 20회 TOPCIT 정기평가 798점    
 2023.12.22 from 과학기술정보통신부    
 3. **2023 공개SW 개발자대회 - 비아웹 대표상(동상)**    
 [AI를 활용한 Online Judge Coding Coach : COCO](https://github.com/PDA-PRO)    
 [Demo Site](http://codingcoach.co.kr/)    
 2023.12.01 from 과학기술정보통신부    
-5. **2023 한국관광공사 Tour API 4.0 with Kakao 관광데이터 활용 공모전 - 우수상**    
+4. **2023 한국관광공사 Tour API 4.0 with Kakao 관광데이터 활용 공모전 - 우수상**    
 [OFFSIDE](https://github.com/OFFSIDE-PDA/OFFSIDE)    
 2023.11.29 from 한국관광공사 & Kakao    
-6. **2022 충청권 ICT 메이커톤 - 우수상(전체 2등)**    
+5. **2022 충청권 ICT 메이커톤 - 우수상(전체 2등)**    
 [P.I Shield](https://github.com/lookinmin/P.I.Shield)    
 2022.11.05 from 과학기술정보통신부    
 
@@ -45,11 +47,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
-</div>
-
-### learning
-<div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 </div>
 
 -------
