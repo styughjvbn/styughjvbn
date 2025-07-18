@@ -21,8 +21,7 @@
 [P.I Shield](https://github.com/lookinmin/P.I.Shield)    
 2022.11.05 from 과학기술정보통신부    
 
-## 🗒️DEV Log
-[프로젝트 회고](https://www.notion.so/5ae408af85ec45ea9639d3647514f849?pvs=21)    
+## [🗒️DEV Log](https://styughjvbn.github.io/blog/) 
 
 ## 📞Contact
 
