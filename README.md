@@ -16,10 +16,7 @@
 2023.12.01 from 과학기술정보통신부    
 4. **2023 한국관광공사 Tour API 4.0 with Kakao 관광데이터 활용 공모전 - 우수상**    
 [OFFSIDE](https://github.com/OFFSIDE-PDA/OFFSIDE)    
-2023.11.29 from 한국관광공사 & Kakao    
-5. **2022 충청권 ICT 메이커톤 - 우수상(전체 2등)**    
-[P.I Shield](https://github.com/lookinmin/P.I.Shield)    
-2022.11.05 from 과학기술정보통신부    
+2023.11.29 from 한국관광공사 & Kakao     
 
 ## [🗒️DEV Log](https://styughjvbn.github.io/blog/) 
 
